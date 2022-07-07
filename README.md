@@ -2,7 +2,7 @@
 A REST API for providing programmatic access to Mirth resources.
 
 ## Releases Listing
-> POST https://mirth.brightcodecompany.com/releases
+> POST https://mirth.brightcodecompany.com/resource/releases
 
 Releases endpoint provides download links for different releases of Mirth Connect. You can search for a specific release by specifying parameters in your request body. </br>
 **All data is parsed from the [official Connect repository](https://github.com/nextgenhealthcare/connect/releases/) and belongs to NextGen!**
