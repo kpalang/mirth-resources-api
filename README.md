@@ -12,7 +12,7 @@ Releases endpoint provides download links for different releases of Mirth Connec
 Available values for request parameters:
 | Parameter  | Available values |
 | ------------- | ------------- |
-| version | Pretty much all Mirth versions starting from 3.0.0 |
+| version | Pretty much all Mirth versions starting from 3.6.0 |
 | os | windows, linux, mac os x  |
 | arch | x86, x64  |
 | download_type | installer, tar.gz, zip, rpm  |
